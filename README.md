@@ -6,3 +6,6 @@ both fission and fusion. The second cell type represents an abnormal cell, where
 and the final cell type is another abnormal cell where fusion is blocked. 
 
 The dynamics of these cells are tracked as a fission/fusion ratio, the ATP production and ROS production. 
+
+Videos of simulations are available but are too big to display online and must be downloaded to view.
+The videos are saved as: _cell type_ _ca_ _cAMP_ _glucose_.mp4  
